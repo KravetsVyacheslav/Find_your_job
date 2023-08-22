@@ -1,0 +1,22 @@
+body {
+    font-family: "Fira Sans";
+    font-style: normal;
+
+}
+
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+ul {
+   
+    margin-top: -16px;
+    margin-bottom: -16px;  
+}
+button {
+    cursor: pointer;
+    border: none;
+}
